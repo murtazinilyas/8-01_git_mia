@@ -67,7 +67,7 @@
 ### Решение 3
 
 [Ссылка на решение 3](https://github.com/murtazinilyas/8-01_git_mia/network)
-![Граф коммитов решения 3](ссылка на скриншот)
+![Граф коммитов решения 3](https://github.com/murtazinilyas/8-01_git_mia/blob/main/img/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B53.jpg)
 
 ### Задание 4*
 
@@ -86,4 +86,4 @@
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 [Ссылка на решение 4](https://github.com/murtazinilyas/8-01_git_mia/network)
-![Граф коммитов решения 4](ссылка на скриншот)
+![Граф коммитов решения 4](https://github.com/murtazinilyas/8-01_git_mia/blob/main/img/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B54.jpg)
